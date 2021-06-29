@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Фитнесс-ассистент</string>
+
+    <string name="title_name">Название</string>
+    <string name="title_description">Описание</string>
+    <string name="title_repeat">Количество повторений</string>
+    <string name="title_repeat_short">Повторений: </string>
+    <string name="title_approach">Количество подходов</string>
+    <string name="title_approach_short">Подходов: </string>
+    <string name="title_body">Часть тела</string>
+
+    <string name="login_request">Пожалуйста, авторизуйтесь!</string>
+    <string name="login_button_text">Войти</string>
+    <string name="logout_button_text">Logout</string>
+    <string name="login_unsuccessful_msg">Login unsuccessful</string>
+
+    <string name="add_exercise">Добавить упражнение</string>
+
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+</resources>
